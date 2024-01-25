@@ -1,4 +1,4 @@
-<h1 align="center">Oiu 👋, Eu sou David Thomaz</h1>
+<h1 align="center">Oi 👋, sou o David Thomaz</h1>
 <h3 align="center">Adoro dados e a forma como eles desvendam a verdade. Sou um praticante da Comunicação Não Violenta</h3>
 
 - 🔭 Eu atualmente trabalho com **Análise de Dados de Segurança do Trabalho na Copel**

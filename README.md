@@ -1,11 +1,9 @@
-<h1 align="center">Oi 👋, sou o David Thomaz</h1>
-<h3 align="center">Adoro dados e a forma como eles desvendam a verdade. Sou um praticante da Comunicação Não Violenta</h3>
+<h1 align="left">David Thomaz</h1>
+<h3 align="left">Sou um solucionador e entusiasta de técnologia.</h3>
 
 - 🔭 Eu atualmente trabalho com **Análise de Dados de Segurança do Trabalho na Copel**
 
-- 🌱 Estou atualmente aprendendo **Python e Mediação de Conflitos**
-
-- 👯 Também ministro cursos e mentorias de **Comunicação Não Violenta**
+- 🌱 Estou atualmente aprendendo **Business Intelligence e Analytics**
 
 - 💬 Pergunte-me sobre **Power BI e Microsft Lists**
 
